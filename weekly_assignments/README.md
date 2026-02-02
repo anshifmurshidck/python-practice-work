@@ -1,0 +1,1 @@
+This folder contains weekly Python programming tasks completed as part of academic practice. The focus is on building strong fundamentals in Python, including functions, control flow, and logical problem-solving
